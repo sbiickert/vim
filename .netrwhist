@@ -1,8 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =6
-let g:netrw_dirhist_6='/Users/sjb/Developer/Advent of Code/2018/AdventOfCode2018/Perl'
-let g:netrw_dirhist_5='/Users/sjb/Developer/Advent of Code/2018/AdventOfCode2018/input'
-let g:netrw_dirhist_4='/Users/sjb/Developer/Advent of Code/2018/AdventOfCode2018'
-let g:netrw_dirhist_3='/Users/sjb/Developer/Advent of Code/2018/AdventOfCode2018/Perl'
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/sjb/Developer/Advent of Code/2018/AdventOfCode2018/Perl/AOC'
+let g:netrw_dirhist_4='/Users/sjb/Developer/Advent of Code/2018/AdventOfCode2018/Perl'
+let g:netrw_dirhist_3='/Users/sjb/Developer/Advent of Code/2018/AdventOfCode2018/input'
 let g:netrw_dirhist_2='/Users/sjb/Developer/Advent of Code/2018/AdventOfCode2018'
 let g:netrw_dirhist_1='/Users/sjb/Developer/Advent of Code/2018/AdventOfCode2018/Perl'
+let g:netrw_dirhist_0='/Users/sjb/Developer/Advent of Code/2018/AdventOfCode2018/Perl/AOC'
+let g:netrw_dirhist_9='/Users/sjb/Developer/Advent of Code/2018/AdventOfCode2018/Perl'
+let g:netrw_dirhist_8='/Users/sjb/Developer/Advent of Code/2018/AdventOfCode2018/input'
+let g:netrw_dirhist_7='/Users/sjb/Developer/Advent of Code/2018/AdventOfCode2018'
+let g:netrw_dirhist_6='/Users/sjb/Developer/Advent of Code/2018/AdventOfCode2018/Perl'
